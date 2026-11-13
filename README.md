@@ -1,69 +1,67 @@
-<div align="center">
+# Mahmud Modibbo
 
-# 👋 Hi, I'm Mahmud Modibbo
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-1f2328?style=flat-square&logo=php&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![Inertia](https://img.shields.io/badge/Inertia-1f2328?style=flat-square&logo=inertia&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-1f2328?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1f2328?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2328?style=flat-square&logo=tailwindcss&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
 
-Full-Stack Developer — Laravel · React · PostgreSQL  
-BSc Computer Science — American University of Nigeria  
+I build the systems behind storefronts, produce supply, hotel front desks, campaign phone banks and prayer apps: the backend, the web dashboard and the mobile app.
 
-<p>
-  <a href="mailto:mahmudmodibbo21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mahmud021">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/_mahmudmodi">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://instagram.com/mahmud.modi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+Full-stack developer. BSc Computer Science, American University of Nigeria.
 
-</div>
+[Email](mailto:mahmudmodibbo21@gmail.com) · [X](https://x.com/_mahmudmodi) · [Instagram](https://instagram.com/mahmud.modi)
 
----
+<br>
 
-## 🧠 About
+## Selected work
 
-I'm a frontend and backend developer focused on delivering convenience, speed, efficiency, and simplicity through clean, well-structured software.
+### Vendly
 
-> **Your daily tasks shouldn’t be stressful — I build systems that simplify them.**
+**An online store for every small vendor, on their own address.**
 
-I work across the full stack — from Laravel and PostgreSQL to React and Tailwind — building reliable systems that solve real operational needs.
+Most small vendors sell through WhatsApp chats and a paper notebook. Vendly gives each one a storefront at `their-name.vendly.ng`, with a catalogue, orders, delivery zones and invoices, and keeps every vendor's data separate from the next. I built the multi-tenant backend, the storefront and admin, subscription billing, and the vendor app for phone and desktop.
 
----
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![Inertia](https://img.shields.io/badge/Inertia-1f2328?style=flat-square&logo=inertia&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1f2328?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🛠️ Stack
+### Jannah Path
 
-- **Languages:** PHP, JavaScript/TypeScript, Python  
-- **Backend:** Laravel, Node.js, Inertia  
-- **Frontend:** React, Tailwind CSS  
-- **Databases:** PostgreSQL, MySQL  
-- **Others:** Zustand, Paystack API, Zod, Queues
+**Prayer times and daily worship, in one app.**
 
----
+Prayer times calculated for where you are, a countdown to the next prayer, the Hijri calendar with its events, nearby mosques, a prayer tracker and reminders that arrive on time. I built the React Native app and the Laravel backend behind it.
 
-## 🚧 Projects
+![React Native](https://img.shields.io/badge/React_Native-1f2328?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1f2328?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
 
-### [AUN Visitor System](https://github.com/mahmud021/aun-vms)  
-Secured 5,000+ monthly entries. QR check-in under 10s.  
-`Laravel · PostgreSQL`
+### Agri-Link
 
-### [Noopsy’s Pizza](https://github.com/mahmud021/noopsys-pizza)  
-Real-time orders, auto-invoicing, smart rider dispatch.  
-`Laravel · Paystack API · DaisyUI`
+**Fresh farm produce, from supplier to doorstep.**
 
-### [Inventory System](https://github.com/mahmud021/inventory-system)  
-100% stock automation + activity logs.  
-`PHP · Tailwind`
+In progress. A marketplace that connects produce suppliers with the people who buy from them: customers order from their phone, pay in the app and get it delivered. I am building the mobile app and the platform that runs it.
 
----
+![React Native](https://img.shields.io/badge/React_Native-1f2328?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1f2328?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white)
 
-## 🔭 Currently
+### Outreach
 
-- Deep-diving **React 19** + server components  
-- Learning **cybersecurity** (long game)  
-- Building a **SaaS for Nigerian vendors** — zero bloat, all ops
+**A campaign's supporters, reached by call and SMS.**
 
----
+Contact imports, recorded voice messages, templates and delivery tracking per recipient, with a second side that collects election results by state and local government.
+
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-1f2328?style=flat-square)
+
+### Hotel Management
+
+**One front desk for a group of hotels.**
+
+Rooms and room types, reservations priced night by night, guests, corporate clients, group bookings and room blocks, with access set per role and per property.
+
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white)
+
+### Log Intelligence
+
+**Logs in, detections and alerts out.**
+
+Takes in logs from many sources, parses them, runs detection rules and raises alerts. Upload a sample log and it proposes new detection rules with AI.
+
+![Laravel](https://img.shields.io/badge/Laravel-1f2328?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white) ![Laravel AI](https://img.shields.io/badge/Laravel_AI-1f2328?style=flat-square)
+
+<br>
+
+## Now
+
+Building Agri-Link.
